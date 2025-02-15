@@ -162,3 +162,19 @@ The old school ctf_mandrillmaze map, but now with colgate staring at you everywh
 * Creator: Sufficient
 
 Map based on cp_cloak where instead of mercs watching from the skybox its mares, and they are watching (You), as well as other mares. Unlike cp_cloak, this map is bigger and is a viable koth map while containing elements of a trade or fun server map.
+
+### midnight_keep
+* Creator: Slav
+
+Large nighttime map with no objective featuring a pony-occupied fortress in the snowy mountains near Luna Bay. 
+
+### pl_twosisters
+* Creator: Slav
+
+Push the cart from a settlement in the everfree forest up to the gates of the castle of the two sisters! Features forest, cave and medieval themes. 
+
+### koth_saddlepoint
+* Creator: Slav
+
+Both teams fight for control of their generator to power up a portal to equstria on round win, inspired by pl_rainbowdashride. Mountain research facility themes. 
+
